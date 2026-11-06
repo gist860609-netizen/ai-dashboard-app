@@ -1,0 +1,17 @@
+{
+  "name": "AI 명령 대시보드",
+  "short_name": "AI 대시보드",
+  "description": "Gemini와 Claude 두 계정을 한 화면에서 쓰는 개인 작업 대시보드",
+  "lang": "ko",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#16302b",
+  "theme_color": "#16302b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
